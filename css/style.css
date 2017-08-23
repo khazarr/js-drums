@@ -2,7 +2,9 @@
 
 
 body{
-
+  background-image:url("http://www.louisvilledrummer.com/wp-content/uploads/2011/05/1-122.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 h1{
@@ -14,7 +16,7 @@ h1{
     width: 730px;
     height: 150px;
 
-    background-color: red;
+
 
     position: absolute;
     top:0;
@@ -53,7 +55,7 @@ kbd{
 }
 
 .sound{
-  font-size: 20px;
+  font-size: 14px;
   color: #ffc600;
 
 }
